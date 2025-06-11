@@ -11,7 +11,11 @@
     font-family: Montserrat;
 }
 
-body {bg-desktop.webp
+body {
+    background: url('bg-desktop.webp');
+    font-family: monospace;
+}
+
     display: flex;
     justify-content: center;
     align-items: center;
